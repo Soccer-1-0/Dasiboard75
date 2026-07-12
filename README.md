@@ -4,15 +4,13 @@ This is my attempt at creating a keyboard with 84 keys, with backlights, a rotar
 <img width="1056" height="538" alt="Render" src="https://github.com/user-attachments/assets/29005a24-72f2-402f-b229-1299ea50eae3" />
 
 ## CAD
-Cadding everything together was the best part, since I could easily see the results fast and I didn't have to worry about any problems later in firmware. The keys will also be colored, since there is a keyset that I sourced that provides variations of light green keys, I just didn't want to add color to every individual key.
+Cadding everything together was the best part, since I could easily see the results fast and I didn't have to worry about any problems later in firmware. The keys will also be colored, since there is a keyset that I sourced that provides variations of light green keys, I just didn't want to add color to every individual key. I also made custom knobs for both the slide potentiometer and the rotary encoder! Dasiy flower for the encoder!
 
 ![cad1](images/cad1.png)
-
-I made custom knobs for both the slide potentiometer and the rotary encoder! Dasiy flower for the encoder!
 ![cad2](images/cad2.png)
 
 ## Schematic
-My schematics are so cooked that I need three images for this.
+My schematics are so cooked that I need three images for this. The leds took so much space, but it only takes on gpio pin. I used the japanese duplex matrix, which is why there are two keys for each column in the schematic drawing for the switiches. The duplex matrix works with scanning with the different directions of diodes to be able to double the amount of keys on a keyboard, which is the main reason I was able to make a full keyboard with less pins.
 ![schem1](images/schem1.png)
 ![schem2](images/schem2.png)
 ![schem3](images/schem3.png)
