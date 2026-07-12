@@ -11,6 +11,10 @@ Cadding everything together was the best part, since I could easily see the resu
 
 ## Schematic
 
+![schem1](images/schem1.png)
+![schem2](images/schem2.png)
+![schem3](images/schem3.png)
+
 ## PCB
 
 ![pcb1](images/pcb.png)
