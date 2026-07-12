@@ -1,6 +1,6 @@
 # Dasiboard75
 
-This is my attempt at creating a keyboard with 84 keys, with backlights, a rotary encoder, a slide potentiometer, a OLED screen, and a power switch, using just the 19 usable pins of a XIAO NRF52840 Plus.
+This is my attempt at creating a keyboard with 84 keys, with backlights, a rotary encoder, a slide potentiometer, a OLED screen, and a power switch, using just the 19 usable pins of a XIAO NRF52840 Plus. I named it dasiboard75 because I liked the unique way to spell it and it just sounds like a cool keyboard.
 <img width="1056" height="538" alt="Render" src="https://github.com/user-attachments/assets/29005a24-72f2-402f-b229-1299ea50eae3" />
 
 ## CAD
@@ -25,5 +25,14 @@ The routing of this took so long, since I used a 7x7(2) matrix for it, I had to 
 Still in progress, am trying to find a way for it to work with ZMK firmware, since some of my features are not supported with ZMK, but I really want to use the energy saving ways of bluetooth of ZMK.
 
 ## Casing
+The casing took a very annoying long time. The plate itself took a long time since I used a keyboard layout generator, but then moved the keys during the routing process for a smaller pcb. I also had to add a bunch of holes for heat inserts, and screws, and the heads of the screws since I used a bottom mount for my keyboard (search it up, its a keyboard type of conencting between the plates and casing). But overall, I like how the casing ended up, I kinda wanted to add another part of casing to protect the keys and knobs, but we'll see if I actuall add it later.
+![case1](images/case1.png)
+![case2](images/case2.png)
+![case3](images/case3.png)
+![case4](images/case4.png)
+![case5](images/case5.png)
+![case6](images/case6.png)
+![case7](images/case7.png)
 
 ## BOM
+To be continued (eventually)
