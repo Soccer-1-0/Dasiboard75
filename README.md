@@ -13,6 +13,10 @@ Cadding everything together was the best part, since I could easily see the resu
 
 ## PCB
 
+![pcb1](images/pcb.png)
+![pcb1](images/pcb_render.png)
+![pcb1](images/pcb_render2.png)
+
 ## Firmware
 
 ## Casing
