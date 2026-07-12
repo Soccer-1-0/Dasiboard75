@@ -5,7 +5,7 @@ This is my attempt at creating a keyboard with 84 keys, with backlights, a rotar
 
 ## CAD
 
-![cad1](cad1.png)
+![cad1](images/cad1.png)
 
 
 ## Schematic
