@@ -7,10 +7,12 @@ This is my attempt at creating a keyboard with 84 keys, with backlights, a rotar
 Cadding everything together was the best part, since I could easily see the results fast and I didn't have to worry about any problems later in firmware. The keys will also be colored, since there is a keyset that I sourced that provides variations of light green keys, I just didn't want to add color to every individual key.
 
 ![cad1](images/cad1.png)
+
+I made custom knobs for both the slide potentiometer and the rotary encoder! Dasiy flower for the encoder!
 ![cad2](images/cad2.png)
 
 ## Schematic
-
+My schematics are so cooked that I need three images for this.
 ![schem1](images/schem1.png)
 ![schem2](images/schem2.png)
 ![schem3](images/schem3.png)
