@@ -16,12 +16,13 @@ My schematics are so cooked that I need three images for this. The leds took so 
 ![schem3](images/schem3.png)
 
 ## PCB
-
+The routing of this took so long, since I used a 7x7(2) matrix for it, I had to move all the switiches to make sure they all connected the same way. The routing of the leds were even worse.
 ![pcb1](images/pcb.png)
 ![pcb1](images/pcb_render.png)
 ![pcb1](images/pcb_render2.png)
 
 ## Firmware
+Still in progress, am trying to find a way for it to work with ZMK firmware, since some of my features are not supported with ZMK, but I really want to use the energy saving ways of bluetooth of ZMK.
 
 ## Casing
 
