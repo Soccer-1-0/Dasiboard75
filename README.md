@@ -35,4 +35,18 @@ The casing took a very annoying long time. The plate itself took a long time sin
 ![case7](images/case7.png)
 
 ## BOM
-To be continued (eventually)
+- PCB
+- Casing
+- Keycaps
+- 1N4148 Diodes
+- 0.91 OLED Display
+- 6.0U and 2.0 stabilizers
+- Key Switches
+- Rotary Encoder
+- Slide Potentiometer
+- Xiao NRF52840
+- SK6812 Mini E LEDs
+- SPDT Switch
+- Rotary and Slider Knobs
+- Litho Battery
+- M3x18 Screws
