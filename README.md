@@ -50,3 +50,4 @@ The casing took a very annoying long time. The plate itself took a long time sin
 - Rotary and Slider Knobs
 - Litho Battery
 - M3x18 Screws
+View more indepth in the BOM file
