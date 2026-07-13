@@ -22,7 +22,7 @@ The routing of this took so long, since I used a 7x7(2) matrix for it, I had to 
 ![pcb1](images/pcb_render2.png)
 
 ## Firmware
-Still in progress, am trying to find a way for it to work with ZMK firmware, since some of my features are not supported with ZMK, but I really want to use the energy saving ways of bluetooth of ZMK.
+Still in progress, am trying to find a way for it to work with ZMK firmware, since some of my features are not supported with ZMK, but I really want to use the energy saving ways of bluetooth of ZMK. UPDATE: firmware: https://github.com/Soccer-1-0/zmk-config
 
 ## Casing
 The casing took a very annoying long time. The plate itself took a long time since I used a keyboard layout generator, but then moved the keys during the routing process for a smaller pcb. I also had to add a bunch of holes for heat inserts, and screws, and the heads of the screws since I used a bottom mount for my keyboard (search it up, its a keyboard type of conencting between the plates and casing). But overall, I like how the casing ended up, I kinda wanted to add another part of casing to protect the keys and knobs, but we'll see if I actuall add it later.
